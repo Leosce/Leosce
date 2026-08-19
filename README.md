@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩 I'm Marceleno Ayman an AI/ML Engineer passionate about building intelligent systems that solve real problems while keeping humans at the center of technology.
+I'm Marceleno Ayman an AI/ML Engineer passionate about building intelligent systems that solve real problems while keeping humans at the center of technology.
 
 I enjoy working at the intersection of machine learning, deep learning, LLMs, optimization algorithms, and intelligent applications. My interests also blend problem-solving, mathematics, biology, and continuous learning.
 
