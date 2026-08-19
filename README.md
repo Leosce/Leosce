@@ -1,7 +1,7 @@
 
 Languages & Frameworks
 
-Python (https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
+Python (https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 PyTorch (https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 TensorFlow (https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
 scikit-learn (https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat&logo=scikitlearn&logoColor=white)
