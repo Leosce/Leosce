@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0093E9&center=true&vCenter=true&width=600&lines=Agentic+Systems+%26+RAG+Architectures;LLM-Powered+Applications;Real-Time+Computer+Vision;Human-Centered+AI+Engineer" alt="Typing SVG" />
 
-I build intelligent systems that solve real problems while keeping humans at the center of technology — working at the intersection of machine learning, LLM agents, optimization, and computer vision.
+I build intelligent systems that solve real problems while keeping humans at the center of technology, working at the intersection of machine learning, LLM agents, optimization, and computer vision.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marceleno-ayman/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelenoeskander@gmail.com)
@@ -21,7 +21,7 @@ I build intelligent systems that solve real problems while keeping humans at the
 - 🤖 Currently building **agentic AI systems** at Alignerr (AI Training & Evaluation)
 - 🌱 Currently deepening my skills in **Generative AI & RAG agents** (NVIDIA DLI, Building RAG Agents with LLMs)
 - 💬 Ask me about **LangGraph orchestration, RAG pipelines, or YOLOv8 real-time detection**
-- 🎓 AI graduate — Sadat Academy for Management Sciences (Class of 2026)
+- 🎓 AI graduate from Sadat Academy for Management Sciences (Class of 2026)
 - ⚡ Fun fact: I keep humans at the center of every system I ship
 
 <br>
