@@ -21,7 +21,7 @@ I build intelligent systems that solve real problems while keeping humans at the
 - 🤖 Currently building **agentic AI systems** at Alignerr (AI Training & Evaluation)
 - 🌱 Currently deepening my skills in **Generative AI & RAG agents** (NVIDIA DLI, Building RAG Agents with LLMs)
 - 💬 Ask me about **LangGraph orchestration, RAG pipelines, or YOLOv8 real-time detection**
-- 🎓 Final-year AI major @ Sadat Academy for Management Sciences (grad 2026)
+- 🎓 AI graduate — Sadat Academy for Management Sciences (Class of 2026)
 - ⚡ Fun fact: I keep humans at the center of every system I ship
 
 <br>
