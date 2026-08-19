@@ -1,5 +1,7 @@
 # 💫 About Me:
-👩 I'm Marceleno Ayman 🤝 I like contributing to open source and sharing what I learn.<br> 🌱 I’m currently learning Machine Learning<br>
+👩 I'm Marceleno Ayman an AI/ML Engineer passionate about building intelligent systems that solve real problems while keeping humans at the center of technology.
+
+I enjoy working at the intersection of machine learning, deep learning, LLMs, optimization algorithms, and intelligent applications. My interests also blend problem-solving, mathematics, biology, and continuous learning.
 
 
 ## 🌐 Socials:
@@ -30,12 +32,10 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
@@ -46,23 +46,3 @@
 ![GoogleGenAI](https://img.shields.io/badge/GoogleGenAI-4285F4?style=flat&logo=Google&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-%23121011?style=flat&logo=pinecone&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat&logo=chainlink&logoColor=white)
-
-
-# 📈 My GitHub History!:  
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=Hanseeka-Dhingana&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
-<img src =  "https://nirzak-streak-stats.vercel.app/?user=Hanseeka-Dhingana&theme=dark&hide_border=false"/><br/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hanseeka-Dhingana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>      
-
-[![](https://visitcount.itsvg.in/api?id=Hanseeka-Dhingana&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-
-
-------
-
-Credit: [Hanseeka-Dhingana](https://github.com/Hanseeka-Dhingana)
-
-Last Edited on: 08/10/2025
