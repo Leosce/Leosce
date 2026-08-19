@@ -1,9 +1,3 @@
-<div align = "center">
-  <img src="https://raw.githubusercontent.com/Hanseeka-Dhingana/Hanseeka-Dhingana/main/icons/welcometocat.png" width="250" height="250"/>     
-  
-  # Hello World!👋 I'm Hanseeka Dhingana 
-</div>   
-
 # 💫 About Me:
 👩 I'm Hanseeka Dhingana<br> 🤝 I like contributing to open source and sharing what I learn.<br> 🌱 I’m currently learning Machine Learning<br>
 
